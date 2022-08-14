@@ -1,9 +1,8 @@
-package binarytreeinordertraversal;
+package binarytree.binarytreeinordertraversal;
 
 import binarytree.TreeNode;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class Solution {
